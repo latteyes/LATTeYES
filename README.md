@@ -16,6 +16,11 @@
 </div>
 
 ---
+## 🎬 Project Demo
+
+🔗 drive.google.com/file/d/1cqlzGmkXeBn0ObO6PWiPKCzetKCerxg5/view?usp=drivesdk
+
+---
 <br>
 LATTeyes is an ultra-low-power, fully offline Edge-AI vision system designed for real-time surveillance across wildlife reserves, industrial zones, border security, and remote perimeters.  
 The system is built entirely on a Lattice CertusPro-NX FPGA, combining AI-based object detection** with PIR motion sensing to achieve high accuracy with minimal false positives.
@@ -270,14 +275,6 @@ By combining **AI acceleration**, **sensor fusion**, and **hardware-optimized de
 
 **Mentor:** Ms. P. Malini  
 **Institute:** Chennai Institute of Technology
-
----
-
-## 🎬 Project Demo
-
-📽️ *Design Contest Demo Video*  
-🔗 drive.google.com/file/d/1cqlzGmkXeBn0ObO6PWiPKCzetKCerxg5/view?usp=drivesdk
-
 ---
 
 ⭐ *If you like this project, consider starring the repository!*
