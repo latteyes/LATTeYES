@@ -18,7 +18,7 @@
 ---
 ## 🎬 Project Demo
 
-🔗 drive.google.com/file/d/1cqlzGmkXeBn0ObO6PWiPKCzetKCerxg5/view?usp=drivesdk
+🔗 [Project Demo Video](drive.google.com/file/d/1cqlzGmkXeBn0ObO6PWiPKCzetKCerxg5/view?usp=drivesdk)
 
 ---
 <br>
