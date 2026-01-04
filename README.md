@@ -18,7 +18,7 @@
 ---
 ## 🎬 Project Demo
 
-🔗 [LATTeYES](drive.google.com/file/d/1cqlzGmkXeBn0ObO6PWiPKCzetKCerxg5/view?usp=drivesdk)
+🔗 [LATTeYES](https://drive.google.com/file/d/1cqlzGmkXeBn0ObO6PWiPKCzetKCerxg5/view?usp=drivesdk)
 
 ---
 <br>
